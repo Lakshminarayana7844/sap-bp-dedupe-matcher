@@ -1,0 +1,27 @@
+bp_id,true_group_id,name,street,city,postal_code,phone,email,tax_id,country,industry
+BP0001,G01,Müller Baumaschinen GmbH,Hauptstraße 14,Stuttgart,70173,+49 711 550120,info@mueller-baumaschinen.de,DE811230001,DE,Machinery
+BP0002,G01,Mueller Baumaschinen GmbH,Hauptstr. 14,Stuttgart,70173,0711 550120,info@mueller-baumaschinen.de,DE811230001,DE,Machinery
+BP0003,G01,Müller Baumaschinen Ges.m.b.H.,Hauptstraße 14,Stuttgart,70173,+49 711 550120,office@mueller-baumaschinen.de,DE811230001,DE,Machinery
+BP0004,G02,Schmidt & Co. Logistik KG,Werkstraße 3,Mannheim,68159,+49 621 440210,kontakt@schmidt-logistik.de,DE811230002,DE,Logistics
+BP0005,G02,Schmidt und Co. Logistik KG,Werkstr. 3,Mannheim,68159,0621 440210,kontakt@schmidt-logistik.de,DE811230002,DE,Logistics
+BP0006,G03,Weber Textilhandel AG,Marktplatz 8,Kornwestheim,70806,+49 7154 88230,sales@weber-textil.de,DE811230003,DE,Retail
+BP0007,G03,Weber Textilhandel,Marktplatz 8,Kornwestheim,70806,+49 7154 88230,vertrieb@weber-textil.de,DE811230003,DE,Retail
+BP0008,G04,Fischer Elektronik GmbH,Industriering 21,Böblingen,71034,+49 7031 66210,service@fischer-elektronik.de,DE811230004,DE,Electronics
+BP0009,G04,Fischer Elektronik Gmbh,Industriering 21,Böblingen,71034,+49 7031 66 210,service@fischer-elektronik.de,DE811230004,DE,Electronics
+BP0010,G04,Fischer Elektronics GmbH,Industriering 21,Böblingen,71034,+49 7031 66210,service@fischer-elektronik.de,DE811230004,DE,Electronics
+BP0011,G05,Becker Frischemarkt eG,Bahnhofstraße 45,Ludwigsburg,71638,+49 7141 99040,info@becker-frische.de,DE811230005,DE,Food
+BP0012,G05,Becker Frischemarkt,Bahnhofstr. 45,Ludwigsburg,71638,+49 7141 99040,info@becker-frische.de,DE811230005,DE,Food
+BP0013,G06,Wagner Stahlbau GmbH & Co. KG,Am Hafen 12,Heilbronn,74072,+49 7131 77150,anfrage@wagner-stahlbau.de,DE811230006,DE,Steel
+BP0014,G06,Wagner Stahlbau GmbH,Am Hafen 12,Heilbronn,74072,+49 7131 77150,anfrage@wagner-stahlbau.de,DE811230006,DE,Steel
+BP0015,G07,Hoffmann Pharma Handel GmbH,Lindenallee 5,Tübingen,72072,+49 7071 33080,office@hoffmann-pharma.de,DE811230007,DE,Pharma
+BP0016,G07,Hofmann Pharma Handel GmbH,Lindenallee 5,Tübingen,72072,07071 33080,office@hoffmann-pharma.de,DE811230007,DE,Pharma
+BP0017,G08,Klein Autoteile e.K.,Gewerbestraße 9,Reutlingen,72764,+49 7121 20870,shop@klein-autoteile.de,DE811230008,DE,Automotive
+BP0018,G08,Klein Autoteile,Gewerbestraße 9,Reutlingen,72764,+49 7121 20870,bestellung@klein-autoteile.de,DE811230008,DE,Automotive
+BP0019,G09,Neumann Gebäudetechnik GmbH,Ringstraße 30,Esslingen,73728,+49 711 400560,kontakt@neumann-gebaeudetechnik.de,DE811230009,DE,Facility
+BP0020,G09,Neumann Gebäudetechnik GmbH,Ringstr. 30,Esslingen,73728,+49 711 400 560,kontakt@neumann-gebaeudetechnik.de,DE811230009,DE,Facility
+BP0021,G10,Krause Papier Großhandel GmbH,Schulstraße 2,Sindelfingen,71063,+49 7031 12890,verkauf@krause-papier.de,DE811230010,DE,Wholesale
+BP0022,G10,Krause Papier Grosshandel GmbH,Schulstraße 2,Sindelfingen,71063,+49 7031 12890,vertrieb@krause-papier.de,DE811230010,DE,Wholesale
+BP0023,,Braun Kältetechnik AG,Oststraße 17,Göppingen,73033,+49 7161 60440,info@braun-kaelte.de,DE811230011,DE,HVAC
+BP0024,,Vogel Medizintechnik GmbH,Klinikweg 4,Kirchheim,73230,+49 7021 50990,anfragen@vogel-medizin.de,DE811230012,DE,Medical
+BP0025,,Lang Gartenbau GmbH,Blumenweg 11,Filderstadt,70794,+49 711 70230,hallo@lang-gartenbau.de,DE811230013,DE,Landscaping
+BP0026,,Roth Sicherheitstechnik GmbH,Torweg 6,Nürtingen,72622,+49 7022 88110,service@roth-sicherheit.de,DE811230014,DE,Security
